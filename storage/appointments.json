@@ -1,0 +1,47 @@
+[
+    {
+        "id": "BN001",
+        "patient_name": "Tran Thi Thanh Truc",
+        "email": "thanhtruc140404@gmail.com",
+        "phone": "0367293482",
+        "specialty": "internal",
+        "symptoms": "",
+        "created_at": "2026-06-08 09:25:04"
+    },
+    {
+        "id": "BN002",
+        "patient_name": "Tran Thi Thanh Truc",
+        "email": "thanhtruc140404@gmail.com",
+        "phone": "1234567890",
+        "specialty": "cardiology",
+        "symptoms": "",
+        "created_at": "2026-06-08 09:25:52"
+    },
+    {
+        "id": "BN003",
+        "patient_name": "Tran Thi Thanh Truc",
+        "email": "thanhtruc140404@gmail.com",
+        "phone": "1234567890",
+        "specialty": "internal",
+        "symptoms": "",
+        "created_at": "2026-06-08 09:44:54"
+    },
+    {
+        "id": "BN004",
+        "patient_name": "Tran Thi Thanh Truc",
+        "email": "thanhtruc140404@gmail.com",
+        "phone": "1234567890",
+        "specialty": "internal",
+        "symptoms": "<script>alert(\"Hack XSS Clara Clinic\")<\/script>",
+        "created_at": "2026-06-08 09:46:45"
+    },
+    {
+        "id": "BN005",
+        "patient_name": "<script>alert(\"Hack XSS Clara\")<\/script>",
+        "email": "thanhtruc140404@gmail.com",
+        "phone": "1234567890",
+        "specialty": "pediatrics",
+        "symptoms": "",
+        "created_at": "2026-06-08 10:01:24"
+    }
+]

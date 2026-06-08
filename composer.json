@@ -1,0 +1,13 @@
+{
+    "name": "clara/lab04-secure-form-session",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/Support/helpers.php"
+        ]
+    },
+    "require": {}
+}
